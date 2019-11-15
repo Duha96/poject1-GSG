@@ -1,0 +1,33 @@
+body{
+	margin-top: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.header{
+	float: right;
+}
+.header a ,.header button
+{
+	margin: 10px;
+	color: #000;
+	text-decoration: none;
+}
+.header button{
+	background: #4484f1;
+	font-size: 20px;
+	padding: 8px;
+	color: #fff;
+	border-radius: 10px;
+	font-weight: bold;
+}
+.logo-img img{
+	width: 500px;
+	height: 200px;
+	margin-top: 10px;
+	margin-left: 100px; 
+}
+.search-box input {
+	height: 40px;
+	width: 444px;
+
+}
